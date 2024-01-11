@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika1405&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika1405" /> </p>
 
-- 🌱 I’m currently learning **Block chain**
+- 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about **Java ,HTML, CSS, Block Chain ,AWS , C ,C++**
 
