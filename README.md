@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OnUyiy9_d-HRo4dAf4xK7f85fdEWMR3D/view?usp=sharing](https://drive.google.com/file/d/1OnUyiy9_d-HRo4dAf4xK7f85fdEWMR3D/view?usp=sharing)
 
-- ⚡ Hobbies **I think I am creative, good writer and speaker , I enjoy dancing!!!!**
+- ⚡ Hobbies **creative, good writer and speaker , I enjoy dancing!!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
