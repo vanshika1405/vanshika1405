@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Vanshika sharma</h1>
+<h1 align="center">Heyyyy all 🙋🏻‍♀️, I'm Vanshika sharma</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
 <image align ="right" alt ="coding" width = "400" src ="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika1405&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika1405" /> </p>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Ruby on rails**
 
-- 💬 Ask me about **Java ,HTML, CSS, Block Chain ,AWS , C ,C++**
+- 💬 Ask me about **Java ,HTML, CSS, Block Chain ,AWS , C ,C++,Ruby on rails **
 
 - 📫 How to reach me **vanshikasharma75351@gmail.com**
 
